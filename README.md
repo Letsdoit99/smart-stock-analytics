@@ -5,3 +5,7 @@ All-in-one stock market forecast and analysis dashboard using Python, Prophet, a
 <img width="360" height="440" alt="image" src="https://github.com/user-attachments/assets/b00148d4-3794-4178-9c47-969c8c598c95" />
 
 
+<img width="1257" height="620" alt="image" src="https://github.com/user-attachments/assets/b37b610e-30a5-4f02-8dbb-cf75ce85a088" />
+
+
+
