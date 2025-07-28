@@ -1,5 +1,16 @@
 # Smart-Stock-Analytics
-All-in-one stock market forecast and analysis dashboard using Python, Prophet, and Power BI includes trade signals, trend insights, and confidence metrics.
+🔍 Project Overview: All-in-One Stock Forecast Dashboard
+
+This Power BI-based dashboard delivers:
+📈 Accurate Forecasting using historical stock trends
+➡️ Forecasts generated using Python (Prophet) on Yahoo Finance data
+🔁 Trade Signals (Buy / Hold / Sell) powered by predictive modeling
+⚠️ Confidence Intervals & Risk-Reward Scores to guide decisions
+📊 Visual insights on Forecast vs Actual, Signal Strength, and Trend Direction
+🔎 Filter by Ticker or Market Cap for focused analysis
+Ideal for retail investors, analysts, or portfolio managers seeking a visual, data-driven edge.
+
+
 
 
 <h3 align="center">📊 All-in-One Stock Analysis Dashboard</h3>
